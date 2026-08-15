@@ -1,3 +1,7 @@
 1. Git helps track changes in files and projects.
 2. GitHub allows Git repositories to be stored and shared online.
 3. Git add, git commit, and git push are used at different stages of the Git workflow.
+
+git add stages the changes that we want to include in the next commit.
+git commit saves the staged changes in Git history.
+git push uploads the committed changes to the remote GitHub repository.
